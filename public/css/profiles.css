@@ -1,0 +1,16 @@
+div.editUser, div.editJob {
+	margin-top: 20px;
+}
+
+div.usersTable {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+button.profilesButton {
+	margin-bottom: 50px;
+}
+
+.manageUsers, .manageJobs {
+	cursor: pointer;
+}
